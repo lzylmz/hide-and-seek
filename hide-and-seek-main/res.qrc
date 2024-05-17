@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>startIcon.png</file>
+        <file>ghost.png</file>
+        <file>upMale.png</file>
+        <file>rightMale.png</file>
+        <file>startMale.png</file>
+        <file>leftMale.png</file>
+        <file>downMale.png</file>
+    </qresource>
+</RCC>
